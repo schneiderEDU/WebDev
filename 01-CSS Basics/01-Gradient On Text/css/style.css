@@ -1,0 +1,18 @@
+body {
+  background: #000;
+  background-image: url('../img/bg-img.jpg');
+}
+
+h1 {
+  text-align: center;
+}
+
+.gradient-bg {
+  display: block;
+  font-family: 'Monoton', cursive;
+  font-size: 100px;
+  background-image: linear-gradient(to bottom right, #0540F2, #8E38D8, #F088FA);
+  background-size: 100% 100%;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
