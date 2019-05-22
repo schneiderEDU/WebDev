@@ -1,0 +1,18 @@
+body {
+  background: #FFFBF9;
+}
+
+h1 {
+  text-align: center;
+}
+
+.image-bg {
+  font-family: Montserrat, sans-serif;
+  font-size: 200px;
+  background-image: url('../img/image-bg.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: 100%;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
